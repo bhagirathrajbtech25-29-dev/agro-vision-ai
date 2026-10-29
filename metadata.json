@@ -1,0 +1,6 @@
+{
+  "name": "AgroVision AI - Tomato Disease Diagnosis & Research Advisory",
+  "description": "AKTU B.Tech Mini Project by Bhagirath Raj: Real-time deep learning foliage diagnosis, dynamic Google Search research grounding, weather forecast, 15-day cycle alerts, and comprehensive agronomic guide.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
